@@ -2,6 +2,8 @@
 *.pickle
 *.pkl
 *.zip
+*.csv
+*.sqlite*
 
 Capstone_project_2
 
