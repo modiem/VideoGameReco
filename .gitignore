@@ -1,0 +1,9 @@
+*.DS_Store
+*.pickle
+*.pkl
+*.zip
+
+Capstone_project_2
+
+data
+reference
